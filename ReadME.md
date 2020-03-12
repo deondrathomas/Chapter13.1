@@ -35,13 +35,11 @@ While loop is good because its more easier then a for loop, it has less coding i
     <br>
 <img src="13.1.png" alt="screen shot of console">
 
+
+<p>#29 I think the while loop is better then the for loop because i always use the while loop instead of the for loop </p>
 <hr>
 <p>
-------------------------------------------------------------------------<br>
- This is the project README file. Here, you should describe your project.<br>
-Tell the reader (someone who does not know anything about this project)<br>
-all he/she needs to know. The comments should usually include at least:<br>
-------------------------------------------------------------------------</p>
+
 
 # Lesson Insert Number Here
 <li>PURPOSE OF PROJECT:                              </li>
