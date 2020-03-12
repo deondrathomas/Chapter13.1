@@ -32,7 +32,7 @@ for (let i = 0; i < 3; i++) { // shows 0, then 1, then 2
 While loop is good because its more easier then a for loop, it has less coding involved. And For loops are good for creating games.
 2. The major change in Android Os 3.0 they fixed bugs, changed the Android API, and added a system bar. And Gingerbread became cumbersome because it's and old version so its harder to use.
 
-    
+    <br>
 <img src="13.1.png" alt="screen shot of console">
 
 <hr>
