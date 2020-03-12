@@ -36,7 +36,7 @@ While loop is good because its more easier then a for loop, it has less coding i
 <img src="13.1.png" alt="screen shot of console">
 
 
-<p>#29 I think the while loop is better then the for loop because i always use the while loop instead of the for loop </p>
+<p>#29 I think the while loop is better then the for loop because im more comfortable using the while loop. </p>
 <hr>
 <p>
 
