@@ -27,9 +27,6 @@ public class LoopingMediaLib {
                 System.out.println("Song Title: " + title + "\nRating: " + rating);
                 s = MediaFile.readString();
                 Song song1 = new Song();
-                song1.setTitle("Thats Tuff");
-                song1.setRating(10);
-                song1.setPrice(0.99);
 
             }
         }
